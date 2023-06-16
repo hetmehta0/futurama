@@ -1,0 +1,5 @@
+https://api.sampleapis.com/futurama/characters
+https://api.sampleapis.com/futurama/cast
+https://api.sampleapis.com/futurama/episodes
+https://api.sampleapis.com/futurama/questions
+https://api.sampleapis.com/futurama/inventory
